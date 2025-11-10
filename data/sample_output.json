@@ -1,0 +1,41 @@
+[
+  {
+    "chainId": "solana",
+    "dexId": "pumpswap",
+    "url": "https://dexscreener.com/solana/eynxrupwn5cafwbkqvt2dhabryhxjezmawdmhja8noes",
+    "pairAddress": "EynXrupWn5cAfWbkQVt2dhABRYhXJEZMaWdmhJA8NoES",
+    "baseToken": {
+      "address": "2XYgocKz9MvkNVVyj85kdM2VxsUwrJeQUZVD4qmD4dYT",
+      "name": "Bobby The Cat",
+      "symbol": "BTC"
+    },
+    "quoteToken": {
+      "address": "So11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL"
+    },
+    "priceNative": "0.0001138",
+    "priceUsd": "0.01694",
+    "txns": {
+      "m5": { "buys": 51, "sells": 117 },
+      "h1": { "buys": 996, "sells": 1042 },
+      "h6": { "buys": 5813, "sells": 4525 },
+      "h24": { "buys": 23145, "sells": 20659 }
+    },
+    "volume": { "h24": 5660277.98, "h6": 1028249.73, "h1": 211612.76, "m5": 14427.5 },
+    "priceChange": { "m5": 5.09, "h1": 27.86, "h6": 117, "h24": 152 },
+    "liquidity": { "usd": 469656.26, "base": 13866325, "quote": 1577.1719 },
+    "fdv": 16946619,
+    "marketCap": 16946619,
+    "pairCreatedAt": 1751316067000,
+    "info": {
+      "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/2XYgocKz9MvkNVVyj85kdM2VxsUwrJeQUZVD4qmD4dYT.png",
+      "websites": [{ "label": "Website", "url": "https://bobbythecat.xyz/" }],
+      "socials": [
+        { "type": "twitter", "url": "https://x.com/Bobbythecatsol" },
+        { "type": "telegram", "url": "https://t.me/bobbythecatsol" }
+      ]
+    },
+    "boosts": { "active": 30 }
+  }
+]
