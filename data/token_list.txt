@@ -1,0 +1,5 @@
+# One address per line. You can mix chains; DexScreener will resolve.
+# Example Solana token (address is illustrative):
+2XYgocKz9MvkNVVyj85kdM2VxsUwrJeQUZVD4qmD4dYT
+# Example SOL wrapped address (quote token used in pairs, harmless here):
+So11111111111111111111111111111111111111112
