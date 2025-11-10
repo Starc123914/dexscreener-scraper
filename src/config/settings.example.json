@@ -1,0 +1,18 @@
+{
+  "chains": ["solana", "ethereum", "bsc"],
+  "query": "doge",
+  "tokenAddressesFile": "data/token_list.txt",
+  "allPools": false,
+  "filters": {
+    "minLiquidityUsd": 10000,
+    "minVolumeH24": 50000,
+    "minFdV": 0,
+    "minMarketCap": 0,
+    "minTxnsH24": 50,
+    "maxAgeHours": 720
+  },
+  "sortBy": "volumeH24",
+  "limit": 150,
+  "outputFormat": "json",
+  "outputPath": "data/output.json"
+}
